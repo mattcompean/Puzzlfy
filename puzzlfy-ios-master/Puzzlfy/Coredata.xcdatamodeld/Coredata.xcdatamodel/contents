@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="5064" systemVersion="13E28" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="User" representedClassName="User" syncable="YES">
+        <attribute name="achvHardPuzzlesSolved" optional="YES" attributeType="Boolean" defaultValueString="0" syncable="YES"/>
+        <attribute name="achvMediumPuzzlesSolved" optional="YES" attributeType="Boolean" defaultValueString="0" syncable="YES"/>
+        <attribute name="achvSolvedPuzzles" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="achvStickers" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="achvTakePhoto" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="achvTakeVideo" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="difficulty" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="gcUserId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="micPermission" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="music" optional="YES" attributeType="Boolean" defaultValueString="YES" syncable="YES"/>
+        <attribute name="showOutlines" optional="YES" attributeType="Boolean" defaultValueString="YES" syncable="YES"/>
+        <attribute name="showSilhouette" optional="YES" attributeType="Boolean" defaultValueString="YES" syncable="YES"/>
+        <attribute name="sound" optional="YES" attributeType="Boolean" defaultValueString="YES" syncable="YES"/>
+        <attribute name="stickersUsed" optional="YES" attributeType="Binary" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="User" positionX="-63" positionY="-18" width="128" height="255"/>
+    </elements>
+</model>

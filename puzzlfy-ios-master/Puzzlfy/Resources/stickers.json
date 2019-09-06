@@ -1,0 +1,238 @@
+[
+ {
+ "image": "sti_halloween",
+ "selected_image": "sti_halloween_selected",
+ "stickers": [
+              {
+              "id": "halloween_acorn",
+              "image": "sti_acorn",
+              "thumb": "sti_acorn_thumb"
+              },
+              {
+              "id": "halloween_bat",
+              "image": "sti_bat",
+              "thumb": "sti_bat_thumb"
+              },
+              {
+              "id": "halloween_candy",
+              "image": "sti_candy",
+              "thumb": "sti_candy_thumb"
+              },
+              {
+              "id": "halloween_cat",
+              "image": "sti_cat",
+              "thumb": "sti_cat_thumb"
+              },
+              {
+              "id": "halloween_facemask",
+              "image": "sti_facemask",
+              "thumb": "sti_facemask_thumb"
+              },
+              {
+              "id": "halloween_ghost",
+              "image": "sti_ghost",
+              "thumb": "sti_ghost_thumb"
+              },
+              {
+              "id": "halloween_hand",
+              "image": "sti_hand",
+              "thumb": "sti_hand_thumb"
+              },
+              {
+              "id": "halloween_headdress",
+              "image": "sti_headdress",
+              "thumb": "sti_headdress_thumb"
+              },
+              {
+              "id": "halloween_leaves",
+              "image": "sti_leaves",
+              "thumb": "sti_leaves_thumb"
+              },
+              {
+              "id": "halloween_masquerade",
+              "image": "sti_masquerade",
+              "thumb": "sti_masquerade_thumb"
+              },
+              {
+              "id": "halloween_moon",
+              "image": "sti_moon",
+              "thumb": "sti_moon_thumb"
+              },
+              {
+              "id": "halloween_pot",
+              "image": "sti_pot",
+              "thumb": "sti_pot_thumb"
+              },
+              {
+              "id": "halloween_pumpkin",
+              "image": "sti_pumpkin",
+              "thumb": "sti_pumpkin_thumb"
+              },
+              {
+              "id": "halloween_skull",
+              "image": "sti_skull",
+              "thumb": "sti_skull_thumb"
+              },
+              {
+              "id": "halloween_tombstone",
+              "image": "sti_tombstone",
+              "thumb": "sti_tombstone_thumb"
+              },
+              {
+              "id": "halloween_turkey",
+              "image": "sti_turkey",
+              "thumb": "sti_turkey_thumb"
+              },
+              {
+              "id": "halloween_witch_hat",
+              "image": "sti_witch_hat",
+              "thumb": "sti_witch_hat_thumb"
+              }
+              ]
+ },
+ {
+ "image" : "sti-faces",
+ "selected-image" : "sti-faces-selected",
+ "stickers" : [
+               {
+               "image": "sti-faces-glasses-moustache",
+               "thumb": "sti-faces-glasses-moustache-thumb",
+               "id"   : "glasses-moustache"
+               },
+               {
+               "image": "sti-faces-moustache1",
+               "thumb": "sti-faces-moustache1-thumb",
+               "id"   : "moustache1"
+               },
+               {
+               "image": "sti-faces-moustache2",
+               "thumb": "sti-faces-moustache2-thumb",
+               "id"   : "moustache2"
+               },
+               {
+               "image": "sti-faces-moustache3",
+               "thumb": "sti-faces-moustache3-thumb",
+               "id"   : "moustache3"
+               },
+               {
+               "image": "sti-faces-hat",
+               "thumb": "sti-faces-hat-thumb",
+               "id"   : "faces-hat"
+               }
+            ]
+ },
+ {
+ "image" : "sti-beach",
+ "selected-image" : "sti-beach-selected",
+ "stickers" : [
+               {
+               "image": "sti-beach-ball",
+               "thumb": "sti-beach-ball-thumb",
+               "id"   : "beach-ball"
+               },
+               {
+               "image": "sti-beach-icecream",
+               "thumb": "sti-beach-icecream-thumb",
+               "id"   : "beach-icecream"
+               },
+               {
+               "image": "sti-beach-sun",
+               "thumb": "sti-beach-sun-thumb",
+               "id"   : "beach-sun"
+               },
+               {
+               "image": "sti-beach-umbrella",
+               "thumb": "sti-beach-umbrella-thumb",
+               "id"   : "beach-umbrella"
+               }
+               ]
+ },
+
+  {
+    "image" : "sti-jungle",
+    "selected-image" : "sti-jungle-selected",
+    "stickers" : [
+                    {
+                    "image": "sti-jungle-elephant",
+                    "thumb": "sti-jungle-elephant-thumb",
+                    "id"   : "jungle-elephant"
+                    },
+                    {
+                  "image": "sti-jungle-giraffe",
+                  "thumb": "sti-jungle-giraffe-thumb",
+                  "id"   : "jungle-giraffe"
+                    },
+                    {
+                  "image": "sti-jungle-lion",
+                  "thumb": "sti-jungle-lion-thumb",
+                  "id"   : "jungle-lion"
+                    },
+                    {
+                  "image": "sti-jungle-monkey",
+                  "thumb": "sti-jungle-monkey-thumb",
+                  "id"   : "jungle-monkey"
+                    },
+                    {
+                  "image": "sti-jungle-monkey2",
+                  "thumb": "sti-jungle-monkey2-thumb",
+                  "id"   : "jungle-monkey2"
+                    },
+                    {
+                  "image": "sti-jungle-tree",
+                  "thumb": "sti-jungle-tree-thumb",
+                  "id"   : "jungle-tree"
+                    },
+                  ]
+  },
+  {
+    "image" : "sti-space",
+    "selected-image" : "sti-space-selected",
+    "stickers" : [
+                   {
+                   "image": "sti-space-sun",
+                  "thumb": "sti-space-sun-thumb",
+                  "id"   : "space-sun"
+                   },
+                   {
+                    "image": "sti-space-moon",
+                  "thumb": "sti-space-moon-thumb",
+                  "id"   : "space-moon"
+                   },
+                   {
+                   "image": "sti-space-planet",
+                  "thumb": "sti-space-planet-thumb",
+                  "id"   : "space-planet"
+                   },
+                   {
+                  "image": "sti-space-rocket",
+                  "thumb": "sti-space-rocket-thumb",
+                  "id"   : "space-rocket"
+                   },
+                   {
+                  "image": "sti-space-asteroid",
+                  "thumb": "sti-space-asteroid-thumb",
+                  "id"   : "space-asteroid"
+                   },
+                   {
+                  "image": "sti-space-asteroid2",
+                  "thumb": "sti-space-asteroid2-thumb",
+                  "id"   : "space-asteroid2"
+                   },
+                   {
+                  "image": "sti-space-star1",
+                  "thumb": "sti-space-star1-thumb",
+                  "id"   : "space-star1"
+                   },
+                   {
+                  "image": "sti-space-star2",
+                  "thumb": "sti-space-star2-thumb",
+                  "id"   : "space-star2"
+                   },
+                   {
+                  "image": "sti-space-starsorbit",
+                  "thumb": "sti-space-starsorbit-thumb",
+                  "id"   : "space-starsorbit"
+                   }
+               ]
+  }
+]

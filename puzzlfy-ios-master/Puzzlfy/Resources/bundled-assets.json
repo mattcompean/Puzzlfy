@@ -1,0 +1,30 @@
+[
+  {
+    "name" : "1.png",
+    "type" : "image",
+    "watermark": "no"
+  },
+ {
+ "name" : "halloweenbg.jpg",
+ "type" : "image",
+ "watermark": "yes"
+ },
+  {
+    "name" : "CaminandesLlamaDramaHD",
+    "type" : "video",
+ "loop" : "0",
+ "watermark": "no"
+  },
+  {
+    "name" : "final_loop-Puzzlfy_30_mp4_1280x720_MOS_Loop",
+    "type" : "video",
+    "loop" : "10",
+ "track": "TheCatInTheHat",
+ "watermark": "no"
+  },
+    {
+    "name" : "2.jpg",
+ "type" : "image",
+ "watermark": "yes"
+  }
+]
